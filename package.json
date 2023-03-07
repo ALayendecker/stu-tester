@@ -1,8 +1,8 @@
 {
-  "name": "wk13react-portfolio",
+  "name": "stu-tester",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Fi-OD.github.io/wk13react-portfolio",
+  "homepage": "https://ALayendecker.github.io/stu-tester",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
